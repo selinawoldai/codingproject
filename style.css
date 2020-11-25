@@ -1,0 +1,19 @@
+body {
+    background-color: #fddada ;
+}
+
+.heading-footer{
+  background-color: lightcoral;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+.intro{
+    margin: auto;
+    width: 50%;
+    border: 3px solid lightblue;
+    padding: 10px;
+    color: #6699ff;
+    text-align: center;
+}
